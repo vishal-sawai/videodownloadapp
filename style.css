@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    color: white;
+}
+body{
+    background: url(img/bg.jpg)no-repeat center center/cover;
+}
+a{
+    border: 2px solid;
+}
+.down{
+    border: 2px;
+    cursor: pointer;
+}
+.icon{
+    height: 100px;
+    width: 100px;
+    filter: blur(550);
+}
+.social img{
+    height: 90px;
+    width: 90px;
+}
+.heading{
+    font-size: 80px;
+    color:skyblue;
+}
