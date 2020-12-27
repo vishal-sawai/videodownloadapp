@@ -5,10 +5,8 @@
     color: white;
 }
 body{
-    background: url(img/bg.jpg)no-repeat center center/cover;
-}
-a{
-    border: 2px solid;
+     padding: 14px;
+   background-color: black;
 }
 .down{
     border: 2px;
@@ -24,6 +22,6 @@ a{
     width: 90px;
 }
 .heading{
-    font-size: 80px;
+    font-size: 50px;
     color:skyblue;
 }
